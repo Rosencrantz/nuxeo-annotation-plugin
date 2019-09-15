@@ -1,0 +1,8 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: custom.ui
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo2-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: custom.ui.nuxeo2-core;singleton=true
